@@ -1,0 +1,28 @@
+<svg width="43" height="43" viewBox="0 0 43 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M1.103 14.128a1 1 0 0 1 1-1h38.794a1 1 0 0 1 1 1v24.77a4 4 0 0 1-4 4H5.104a4 4 0 0 1-4-4v-24.77z" fill="url(#6wcwnhu1na)"/>
+    <path d="M0 7.205a4 4 0 0 1 4-4h35a4 4 0 0 1 4 4v3.82a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1v-3.82z" fill="url(#ginihxf6rb)"/>
+    <g filter="url(#tnsgxrfsxc)">
+        <path d="M23.153 34.265c0 .973-1.248 1.373-1.813.581l-5.09-7.124a1 1 0 0 0-1.628 0l-5.09 7.124c-.566.792-1.814.392-1.814-.581V2a1 1 0 0 1 1-1h13.435a1 1 0 0 1 1 1v32.265z" fill="url(#knnvh4240d)" fill-opacity=".7"/>
+    </g>
+    <defs>
+        <linearGradient id="6wcwnhu1na" x1="23.069" y1="38.349" x2="16.481" y2="-.643" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#0289FE"/>
+            <stop offset=".995" stop-color="#A2EEFF"/>
+        </linearGradient>
+        <linearGradient id="ginihxf6rb" x1="20.949" y1="21.948" x2="22.261" y2="3.143" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#A2EEFF"/>
+            <stop offset=".995" stop-color="#0289FE"/>
+        </linearGradient>
+        <linearGradient id="knnvh4240d" x1="14.842" y1="1.285" x2="38.581" y2="44.783" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#BDFAFF"/>
+            <stop offset=".995" stop-color="#00C8D8"/>
+        </linearGradient>
+        <filter id="tnsgxrfsxc" x="5.718" y="-1" width="19.436" height="38.267" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feGaussianBlur in="BackgroundImage" stdDeviation="1"/>
+            <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_492_957"/>
+            <feBlend in="SourceGraphic" in2="effect1_backgroundBlur_492_957" result="shape"/>
+            <feGaussianBlur stdDeviation=".25" result="effect2_foregroundBlur_492_957"/>
+        </filter>
+    </defs>
+</svg>

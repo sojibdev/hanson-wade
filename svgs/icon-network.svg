@@ -1,0 +1,53 @@
+<svg width="51" height="46" viewBox="0 0 51 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <ellipse cx="10.511" cy="37.235" rx="5.528" ry="5.55" transform="rotate(-137.641 10.51 37.235)" fill="url(#l8cyqa8uya)"/>
+    <circle cx="7.609" cy="23.411" r="5.499" transform="rotate(-123.093 7.609 23.41)" fill="url(#hpcpypp67b)"/>
+    <ellipse cx="33.719" cy="33.5" rx="11" ry="10.5" fill="url(#c993je45nc)"/>
+    <g filter="url(#2lk0zxq2vd)">
+        <circle cx="23.554" cy="26.09" r="14.564" transform="rotate(.242 23.554 26.09)" fill="url(#9hhek6w7pe)" fill-opacity=".6"/>
+    </g>
+    <circle cx="35.444" cy="10.969" r="7.942" transform="rotate(57.424 35.444 10.97)" fill="url(#lzkvu2v82f)"/>
+    <ellipse cx="18.719" cy="41.5" rx="4" ry="3.5" fill="url(#nn6ah96jkg)"/>
+    <circle cx="45.401" cy="20.927" r="3.554" transform="rotate(-46.366 45.4 20.927)" fill="url(#j6xkavrzfh)"/>
+    <circle cx="16.449" cy="10.84" r="7.357" transform="rotate(150 16.45 10.84)" fill="url(#holnetkdhi)"/>
+    <defs>
+        <linearGradient id="l8cyqa8uya" x1="11.786" y1="41.077" x2="7.504" y2="28.28" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#058BFE" stop-opacity=".986"/>
+            <stop offset="1" stop-color="#BDFAFF"/>
+        </linearGradient>
+        <linearGradient id="hpcpypp67b" x1="8.878" y1="27.217" x2="4.648" y2="14.528" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#058BFE" stop-opacity=".986"/>
+            <stop offset="1" stop-color="#BDFAFF"/>
+        </linearGradient>
+        <linearGradient id="c993je45nc" x1="36.258" y1="40.769" x2="28.479" y2="16.321" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#058BFE" stop-opacity=".986"/>
+            <stop offset="1" stop-color="#BDFAFF"/>
+        </linearGradient>
+        <linearGradient id="9hhek6w7pe" x1="11.869" y1="9.004" x2="27.924" y2="44.052" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00C8D8"/>
+            <stop offset="1" stop-color="#BDFAFF"/>
+        </linearGradient>
+        <linearGradient id="lzkvu2v82f" x1="37.276" y1="16.468" x2="31.167" y2="-1.861" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#058BFE" stop-opacity=".986"/>
+            <stop offset="1" stop-color="#BDFAFF"/>
+        </linearGradient>
+        <linearGradient id="nn6ah96jkg" x1="19.642" y1="43.923" x2="17.23" y2="35.652" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#058BFE" stop-opacity=".986"/>
+            <stop offset="1" stop-color="#BDFAFF"/>
+        </linearGradient>
+        <linearGradient id="j6xkavrzfh" x1="46.221" y1="23.387" x2="43.487" y2="15.187" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#058BFE" stop-opacity=".986"/>
+            <stop offset="1" stop-color="#BDFAFF"/>
+        </linearGradient>
+        <linearGradient id="holnetkdhi" x1="18.147" y1="15.934" x2="12.488" y2="-1.045" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#058BFE" stop-opacity=".986"/>
+            <stop offset="1" stop-color="#BDFAFF"/>
+        </linearGradient>
+        <filter id="2lk0zxq2vd" x="5.991" y="8.526" width="35.127" height="35.127" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+            <feGaussianBlur in="BackgroundImage" stdDeviation="1.5"/>
+            <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_492_708"/>
+            <feBlend in="SourceGraphic" in2="effect1_backgroundBlur_492_708" result="shape"/>
+            <feGaussianBlur stdDeviation=".25" result="effect2_foregroundBlur_492_708"/>
+        </filter>
+    </defs>
+</svg>
